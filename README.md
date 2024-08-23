@@ -29,6 +29,12 @@ Este proyecto es un microservicio desarrollado con .NET Core que se conecta a un
 - `PUT /productos/{id}/` - Actualizar un producto existente.
 - `DELETE /productos/{id}/` - Eliminar un producto.
 
+## Documentación de la API
+
+Toda la documentación de la API, incluyendo ejemplos de solicitudes y respuestas para cada endpoint, está disponible en Postman. Puedes acceder a ella en el siguiente enlace:
+
+[Documentación de la API en Postman](https://documenter.getpostman.com/view/10308727/2sAXjDdvAS#887f1b84-8abc-47af-89f1-8f5ba9e06d7d)
+
 ## Requisitos
 
 - .NET Core SDK 8+
